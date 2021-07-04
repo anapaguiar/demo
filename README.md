@@ -1,5 +1,4 @@
 #Demo
 
 Learning Github.
-Wow!
-Inserindo uma linha local.
+Linha inserida online.
